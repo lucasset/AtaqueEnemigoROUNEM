@@ -1,5 +1,4 @@
-# AtaqueEnemigoROUNEM
-
+AtaqueEnemigoROUNEM-git
 Repositorio de juego llamado "ATAQUE ENEMIGO ROUNEM"
 Información General
 Juego 2D creado con Pygame, como parte del Proyecto Final para el Bootcamp de Introducción a la Programación por Código Facilito.
@@ -13,4 +12,3 @@ Requisitos
 -Se debe tener instalado "python 3.10.4". -Se debe tener instalado la libreria "pygame 2.1.2".
 EJECUTA O PROBAR EL JUEGO
 -Ejecutar ataqueEnemigoR.py este es el main
-
